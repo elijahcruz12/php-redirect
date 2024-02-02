@@ -1,0 +1,12 @@
+{
+    "name": "elijahcruz/easy-redirect-php",
+    "authors": [
+        {
+            "name": "Elijah Cruz",
+            "email": "ecwebservices@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
